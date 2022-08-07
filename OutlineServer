@@ -1,15 +1,15 @@
 [
   {
     "title": "Singapore",
-    "expiry": " Expiry : 2022-8-7 5:00 AM",
+    "expiry": "ss://YWVzLTI1Ni1nY206aFpSOUMwOGQwbEAzNC4xNDIuMTk5LjY1OjQ4MDU4#MyKey /n Expiry : 2022-8-7 5:00 AM",
     "condition": "true",
     "preview": "https://i.ibb.co/WHrTdmf/singapore.png",
-    "key": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210608/b7b17d47dbe9447.mp4",
+    "key": "ss://YWVzLTI1Ni1nY206aFpSOUMwOGQwbEAzNC4xNDIuMTk5LjY1OjQ4MDU4#MyKey",
     "timestamp": "Shadowsock"
    },
    {
     "title": "United States",
-    "expiry": " Expiry : 2022-8-6 1:00 AM",
+    "expiry": "Expiry : 2022-8-6 1:00 AM",
     "condition": "false",
     "preview": "https://i.ibb.co/4pnhgHc/uyt-10.png",
     "key": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210608/b7b17d47dbe9447.mp4",
