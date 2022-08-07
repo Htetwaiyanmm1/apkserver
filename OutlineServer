@@ -9,6 +9,14 @@
    },
    {
     "title": "Singapore",
+    "expiry": "ss://YWVzLTI1Ni1nY206MjhwdDdlMjdoc0AzNC4xNDIuMTk5LjY1OjMxNDUz#MyKey#Expiry : 2022-8-8 5:00 AM",
+    "condition": "true",
+    "preview": "https://i.ibb.co/WHrTdmf/singapore.png",
+    "key": "ss://YWVzLTI1Ni1nY206MjhwdDdlMjdoc0AzNC4xNDIuMTk5LjY1OjMxNDUz#MyKey",
+    "timestamp": "Shadowsock"
+   },
+   {
+    "title": "Singapore",
     "expiry": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJNeUtleSIsCiAgImFkZCI6ICIzNC4xNDIuMTk5LjY1IiwKICAicG9ydCI6IDIyNzE5LAogICJpZCI6ICJlMDY3MWRhYy1hOGMyLTRkZjQtYmQzOS02ZjJmODkzZjcwYjUiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJub25lIgp9#Expiry : 2022-8-8 5:00 AM",
     "condition": "true",
     "preview": "https://i.ibb.co/WHrTdmf/singapore.png",
