@@ -41,10 +41,10 @@
    },
    {
     "title": "Tokyo",
-    "expiry": "ss://YWVzLTI1Ni1nY206Vnl2ZjAwUmlJMkAzNC4xNDYuMjE4LjIzNDo1NTU3MA#MyKey#Expiry : 2022-8-8 5:00 AM",
+    "expiry": "ss://YWVzLTI1Ni1nY206UlMxUU0xSzJoQkAzNS4xODcuMjE3LjEwNjo1MjUyMg#MyKey#Expiry : 2022-8-8 10:00 AM",
     "condition": "true",
     "preview": "https://i.ibb.co/dpWhnT1/japan.png",
-    "key": "ss://YWVzLTI1Ni1nY206Vnl2ZjAwUmlJMkAzNC4xNDYuMjE4LjIzNDo1NTU3MA#MyKey",
+    "key": "ss://YWVzLTI1Ni1nY206UlMxUU0xSzJoQkAzNS4xODcuMjE3LjEwNjo1MjUyMg#MyKey",
     "timestamp": "Shadowsock"
    }
 ]
