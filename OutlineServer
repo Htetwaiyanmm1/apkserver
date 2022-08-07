@@ -8,11 +8,11 @@
     "timestamp": "Shadowsock"
    },
    {
-    "title": "United States",
-    "expiry": "Expiry : 2022-8-6 1:00 AM",
-    "condition": "false",
+    "title": "Singapore",
+    "expiry": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJNeUtleSIsCiAgImFkZCI6ICIzNC4xNDIuMTk5LjY1IiwKICAicG9ydCI6IDIyNzE5LAogICJpZCI6ICJlMDY3MWRhYy1hOGMyLTRkZjQtYmQzOS02ZjJmODkzZjcwYjUiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJub25lIgp9#Expiry : 2022-8-6 1:00 AM",
+    "condition": "true",
     "preview": "https://i.ibb.co/4pnhgHc/uyt-10.png",
-    "key": "http://media1.mytel.com.mm/video/videomocha_upload/mp4/20210608/b7b17d47dbe9447.mp4",
+    "key": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJNeUtleSIsCiAgImFkZCI6ICIzNC4xNDIuMTk5LjY1IiwKICAicG9ydCI6IDIyNzE5LAogICJpZCI6ICJlMDY3MWRhYy1hOGMyLTRkZjQtYmQzOS02ZjJmODkzZjcwYjUiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJub25lIgp9",
     "timestamp": "Vmess"
    }
 ]
