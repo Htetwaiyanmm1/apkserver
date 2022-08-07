@@ -26,7 +26,7 @@
    {
     "title": "United Kingdom",
     "expiry": "vmess://ew0KICAgICJ2IjogIjIiLA0KICAgICJwcyI6ICJzc2hvY2Vhbi1teWtleSIsDQogICAgImFkZCI6ICJ1azEudjJyYXlzZXJ2LmNvbSIsDQogICAgInBvcnQiOiAiNDQzIiwNCiAgICAiaWQiOiA1ZmIzYzQxOS0zYzc3LTRlMzctYTdlYy0xOGRhYjQzNjI5NzUsDQogICAgImFpZCI6ICIwIiwNCiAgICAibmV0IjogIndzIiwNCiAgICAic2N5IjoiYXV0byIsDQogICAgInNuaSI6Ind3dy5nb29nbGUuY29tIiwNCiAgICAidHlwZSI6ICJub25lIiwNCiAgICAiaG9zdCI6ICJ1azEudjJyYXlzZXJ2LmNvbSIsDQogICAgInBhdGgiOiAiL3NzaG9jZWFuIiwNCiAgICAidGxzIjogInRscyINCiAgICB9#Expiry : 2022-8-15 1:00 AM",
-    "condition": "true",
+    "condition": "false",
     "preview": "https://i.ibb.co/zhKrRK6/uyt-9.png",
     "key": "vmess://ew0KICAgICJ2IjogIjIiLA0KICAgICJwcyI6ICJzc2hvY2Vhbi1teWtleSIsDQogICAgImFkZCI6ICJ1azEudjJyYXlzZXJ2LmNvbSIsDQogICAgInBvcnQiOiAiNDQzIiwNCiAgICAiaWQiOiA1ZmIzYzQxOS0zYzc3LTRlMzctYTdlYy0xOGRhYjQzNjI5NzUsDQogICAgImFpZCI6ICIwIiwNCiAgICAibmV0IjogIndzIiwNCiAgICAic2N5IjoiYXV0byIsDQogICAgInNuaSI6Ind3dy5nb29nbGUuY29tIiwNCiAgICAidHlwZSI6ICJub25lIiwNCiAgICAiaG9zdCI6ICJ1azEudjJyYXlzZXJ2LmNvbSIsDQogICAgInBhdGgiOiAiL3NzaG9jZWFuIiwNCiAgICAidGxzIjogInRscyINCiAgICB9",
     "timestamp": "Vmess"
