@@ -1,7 +1,15 @@
 [
   {
     "title": "Singapore",
-    "expiry": "Expiry : 2022-8-11 3:00 AM",
+    "expiry": "Expiry : 2022-8-11 9:00 PM",
+    "condition": "true",
+    "preview": "https://i.ibb.co/WHrTdmf/singapore.png",
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOc2VoZ01ycGI0ejE@35.221.105.33:12610/?outline=1",
+    "timestamp": "Shadowsock"
+   },
+   {
+    "title": "Singapore",
+    "expiry": "Expiry : 2022-8-11 9:00 PM",
     "condition": "true",
     "preview": "https://i.ibb.co/WHrTdmf/singapore.png",
     "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2WXJhWHRsc1NLZGQ@34.146.49.154:9191/?outline=1",
@@ -9,18 +17,10 @@
    },
    {
     "title": "Singapore",
-    "expiry": "Expiry : 2022-8-11 3:00 AM",
+    "expiry": "Expiry : 2022-8-11 9:00 PM",
     "condition": "true",
     "preview": "https://i.ibb.co/WHrTdmf/singapore.png",
-    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2WXJhWHRsc1NLZGQ@34.146.49.154:9191/?outline=1",
-    "timestamp": "Shadowsock"
-   },
-   {
-    "title": "Singapore",
-    "expiry": "Expiry : 2022-8-11 3:00 AM",
-    "condition": "true",
-    "preview": "https://i.ibb.co/WHrTdmf/singapore.png",
-    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWE1KM2Q3TW8wTlM@35.221.170.70:18110/?outline=1",
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOc2VoZ01ycGI0ejE@35.221.105.33:12610/?outline=1",
     "timestamp": "Shadowsock"
    },
    {
@@ -41,10 +41,10 @@
    },
    {
     "title": "Tokyo",
-    "expiry": "Expiry : 2022-8-11 3:00 AM",
+    "expiry": "Expiry : 2022-8-11 9:00 PM",
     "condition": "true",
     "preview": "https://i.ibb.co/dpWhnT1/japan.png",
-    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2WXJhWHRsc1NLZGQ@34.146.49.154:9191/?outline=1",
+    "key": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOc2VoZ01ycGI0ejE@35.221.105.33:12610/?outline=1",
     "timestamp": "Shadowsock"
    }
 ]
